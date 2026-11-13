@@ -1,0 +1,19 @@
+{
+  "queries": [
+    {
+      "query_id": "q1",
+      "query": "What is machine learning?",
+      "relevant_chunk_ids": []
+    },
+    {
+      "query_id": "q2",
+      "query": "How does neural network training work?",
+      "relevant_chunk_ids": []
+    },
+    {
+      "query_id": "q3",
+      "query": "What is natural language processing?",
+      "relevant_chunk_ids": []
+    }
+  ]
+}
